@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" style="border-radius:50;%" width="100"/>
   <div id="badges">
-      <a href="your-linkedin-URL">
+      <a href="https://www.linkedin.com/in/mary-mutuku-629944103/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="your-youtube-URL">
+      <a href="https://www.youtube.com/channel/UC9u3_9Bga2LJaTcYTf71-0g">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
-      <a href="your-twitter-URL">
+      <a href="https://twitter.com/MallyMutuku13">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   </div>
@@ -29,7 +29,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I work as a Software Developer contributing to both frontend and backend in building web and android applications
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Writing and Content Creation.
 
 - :zap: In my free time, I solve problems and read tech articles.
 
