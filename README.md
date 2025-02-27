@@ -7,9 +7,6 @@
       <a href="https://www.youtube.com/channel/UC9u3_9Bga2LJaTcYTf71-0g">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
-      <a href="https://twitter.com/MallyMutuku13">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
   </div>
   
   
